@@ -1,0 +1,4 @@
+#Mon May 15 11:47:20 CEST 2023
+base.0=C\:\\Users\\plesc\\Bureau\\OENOLOGIK\\SVNProjet\\2022-l2ak1\\trunk\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

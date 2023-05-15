@@ -1,0 +1,12 @@
+net.jonhanson.flutter_native_splash-jetified-window-java-1.0.0-beta04-0 C:\Users\plesc\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+net.jonhanson.flutter_native_splash-jetified-annotation-experimental-1.1.0-1 C:\Users\plesc\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+net.jonhanson.flutter_native_splash-jetified-window-1.0.0-beta04-2 C:\Users\plesc\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+net.jonhanson.flutter_native_splash-core-1.6.0-3 C:\Users\plesc\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+net.jonhanson.flutter_native_splash-main-4 C:\Users\plesc\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.2.19\android\src\main\res
+net.jonhanson.flutter_native_splash-release-5 C:\Users\plesc\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.2.19\android\src\release\res
+net.jonhanson.flutter_native_splash-pngs-6 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\generated\res\pngs\release
+net.jonhanson.flutter_native_splash-resValues-7 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\generated\res\resValues\release
+net.jonhanson.flutter_native_splash-rs-8 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\generated\res\rs\release
+net.jonhanson.flutter_native_splash-mergeReleaseResources-9 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\intermediates\incremental\release\mergeReleaseResources\merged.dir
+net.jonhanson.flutter_native_splash-mergeReleaseResources-10 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+net.jonhanson.flutter_native_splash-merged_res-11 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\branches\TestACP\build\flutter_native_splash\intermediates\merged_res\release

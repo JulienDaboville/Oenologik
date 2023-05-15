@@ -1,0 +1,4 @@
+#Sun May 14 11:28:07 CEST 2023
+base.0=C\:\\Users\\plesc\\Bureau\\OENOLOGIK\\SVNProjet\\2022-l2ak1\\branches\\TestACP\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

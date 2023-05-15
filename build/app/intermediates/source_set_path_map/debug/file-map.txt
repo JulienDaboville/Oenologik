@@ -1,0 +1,14 @@
+com.example.oenologik.app-jetified-window-java-1.0.0-beta04-0 C:\Users\plesc\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.oenologik.app-jetified-annotation-experimental-1.1.0-1 C:\Users\plesc\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.oenologik.app-jetified-window-1.0.0-beta04-2 C:\Users\plesc\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.oenologik.app-core-1.6.0-3 C:\Users\plesc\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.oenologik.app-debug-4 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\android\app\src\debug\res
+com.example.oenologik.app-main-5 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\android\app\src\main\res
+com.example.oenologik.app-pngs-6 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\generated\res\pngs\debug
+com.example.oenologik.app-resValues-7 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\generated\res\resValues\debug
+com.example.oenologik.app-rs-8 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\generated\res\rs\debug
+com.example.oenologik.app-mergeDebugResources-9 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.oenologik.app-mergeDebugResources-10 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.oenologik.app-merged_res-11 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\app\intermediates\merged_res\debug
+com.example.oenologik.app-packaged_res-12 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\flutter_native_splash\intermediates\packaged_res\debug
+com.example.oenologik.app-packaged_res-13 C:\Users\plesc\Bureau\OENOLOGIK\SVNProjet\2022-l2ak1\trunk\build\url_launcher_android\intermediates\packaged_res\debug
