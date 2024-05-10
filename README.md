@@ -53,9 +53,10 @@ Suivez ces étapes pour installer l'application à partir des fichiers GitHub :
    flutter run
    ```
 
-## Contribution
+## Contributeurs
 
-Les contributions sont les bienvenues ! Consultez `CONTRIBUTING.md` pour des directives sur la manière de contribuer à l'amélioration de l'application.
+Manager: Hicham Aoussar
+Développeur: Auguste Calmanovic-Plescoff, Emile Drean-Harang, Julien D'Aboville, Sevim Alkim Gor
 
 ## Licence
 
