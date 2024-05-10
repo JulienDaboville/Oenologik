@@ -56,6 +56,7 @@ Suivez ces étapes pour installer l'application à partir des fichiers GitHub :
 ## Contributeurs
 
 Manager: Hicham Aoussar
+
 Développeur: Auguste Calmanovic-Plescoff, Emile Drean-Harang, Julien D'Aboville, Sevim Alkim Gor
 
 ## Licence
